@@ -14,12 +14,3 @@
   @extend .text-input;
   height: 10rem;
 }
-input#date.DateInput_input{
-width:768px;
-border: 1px solid #cacccd;
-  height: 50px;
-  font-size: $font-size-large;
-  font-weight: 300;
-  padding: $s-size;
-}
-//DateInput_input_1 DateInput_input__focused DateInput_input__focused_2
